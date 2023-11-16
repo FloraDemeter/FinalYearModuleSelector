@@ -1,0 +1,30 @@
+Student Information: 
+////////////////////
+Student P-Number: 	P2681686
+Student Name: 			Test TEST TEST
+Student E-mail: 		p2681686@dmu.ac.uk
+Submission Date: 		2023-05-04
+Student Course: 		Computer Science
+Term 1 Selected Modules (including reserved): 
+////////////////////\nModules selected for this term:
+================
+Module : IMAT3423, Module Name: Systems Building: Methods, Module Credits: 15, Module Mandatory: true, Module Delivery: TERM_1
+Module : CTEC3110, Module Name: Secure Web Application Development, Module Credits: 15, Module Mandatory: false, Module Delivery: TERM_1
+Module : IMAT3406, Module Name: Fuzzy Logic and Knowledge Based Systems, Module Credits: 15, Module Mandatory: false, Module Delivery: TERM_1
+================
+Reserved modules selected for this term:
+================
+Module : IMAT3613, Module Name: Data Mining, Module Credits: 15, Module Mandatory: false, Module Delivery: TERM_1
+Module : CTEC3911, Module Name: Mobile Application Development, Module Credits: 15, Module Mandatory: false, Module Delivery: TERM_1
+
+Term 2 Selected Modules (including reserved): 
+////////////////////\nModules selected for this term:
+================
+Module : CTEC3606, Module Name: Multi-service Networks 2, Module Credits: 15, Module Mandatory: false, Module Delivery: TERM_2
+Module : CTEC3902, Module Name: Rigorous Systems, Module Credits: 15, Module Mandatory: false, Module Delivery: TERM_2
+Module : CTEC3904, Module Name: Functional Software Development, Module Credits: 15, Module Mandatory: false, Module Delivery: TERM_2
+================
+Reserved modules selected for this term:
+================
+Module : CTEC3410, Module Name: Web Application Penetration Testing, Module Credits: 15, Module Mandatory: false, Module Delivery: TERM_2
+Module : CTEC3905, Module Name: Front-End Web Development, Module Credits: 15, Module Mandatory: false, Module Delivery: TERM_2
